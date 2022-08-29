@@ -1,9 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The purpose and background are well defined (2 pt).
+This project explores a dataset of the kickstarter campaigns for our client, to help them understand which month would be the best in terms of suceesful rate to start the campaigns on specific subcategory(For example:theater,plays,musical,etc...)
 
 ## Purpose
+The purpose of this project is to help client understand the successful rate of the campaign based on various parents category and subcategory, to help client optimize their campagin by setting different goal,starting campaign on different time of the year on specific catergory to improve sucessful rate.
 
 ## Analysis and Challenges
 The overview of the analysis is well described with screenshots (2 pt).
