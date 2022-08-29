@@ -8,6 +8,8 @@ The purpose of this project is to help client understand the successful rate of 
 
 ## Analysis and Challenges
 The overview of the analysis is well described with screenshots (2 pt).
+GIRLS STATE a new musical comedy TV project
+![image](https://user-images.githubusercontent.com/109333158/187131530-531e6560-7bf6-4782-a1d7-19c223e83d67.png)
 
 
 ## Analysis of Outcomes Based on Launch Date
