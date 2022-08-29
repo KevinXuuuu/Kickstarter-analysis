@@ -9,10 +9,15 @@ The purpose of this project is to help client understand the successful rate of 
 ## Analysis and Challenges
 ![image](https://user-images.githubusercontent.com/109333158/187131673-5d8a738b-6d8b-4a95-9c6e-634b294d510c.png)
 
+The dataset contains more than 4000 campaign, some of the information provided for each campagin includes id,name,goal,pledged amount,outcomes,country,deadline,category and etc. See image above. 
+Further analysis was to break down the parents category into subcategory and focus on analysis one subcategory's sucessful rate in differnt time of the year.
 
 ## Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/109333158/187123875-7e7c0e65-756f-44e9-be74-8a526f81bcf5.png)
-Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
+
+Base on the graph above, we concludes that, Launching campaign in May to July would have the greatest count of successful among the year. The counts of sucessful compagin reaches the highest point in May and it would start decline till the end of the year.
+
+Launching campgin in december would have about the same count of failed and sucessful campagin, Launching campaign in december is just waste of money for doing so.
 
 ## Analysis of Outcomes Based on Goals
 ![Outcomes Based On Goal](https://user-images.githubusercontent.com/109333158/187123851-4b6aabab-39f4-4494-88c7-01ed37245f19.png)
