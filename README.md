@@ -2,7 +2,8 @@
 
 ## Overview of Project
 The purpose and background are well defined (2 pt).
-### Purpose
+
+## Purpose
 
 ## Analysis and Challenges
 The overview of the analysis is well described with screenshots (2 pt).
@@ -28,5 +29,6 @@ There is a summary of the limitations of the dataset, and there is a recommendat
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-- 
+
 ## Limitation
+
