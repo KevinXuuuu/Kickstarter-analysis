@@ -20,8 +20,12 @@ Base on the graph above, we concludes that, Launching campaign in May to July wo
 Launching campgin in december would have about the same count of failed and sucessful campagin, Launching campaign in december is just waste of money for doing so.
 
 ## Analysis of Outcomes Based on Goals
+Focusing on analysing the sucessul rate in "Plays" Subcategory. 
 ![Outcomes Based On Goal](https://user-images.githubusercontent.com/109333158/187123851-4b6aabab-39f4-4494-88c7-01ed37245f19.png)
-One conclusion is made about the Outcomes based on Goals (2 pt).
+
+We could easlier concludes that as the campagin would have a down side trend as we increase the goal from Less than 1000 to 25000-29999, and start to become bull again from 250000-29999 to 40000-44999. The remaining portions are unaccountable.
+
+Yet, the population from 25000-29999 to 50000 or more are less than 20, which mean the accuracy is comparably low. Larger dataset may require to concludes the logic behind it.
 
 ## Challenges and Difficulties Encountered
 One of the challenges we may encountered are Excel would poping up"please update value" windows once we enter some invalid string into the formula.
@@ -29,11 +33,15 @@ I try to resolve the issue by trying out different "solutions" in the online for
 At the end, I schedule an 1 on 1 Tutoring time with our TA to solve the issue. TAs are excellent.
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+We recommend start doing theater campaign in April to July, since it has higher counts of successful outcomes among the year, stop from july to April. 
 
-- What can you conclude about the Outcomes based on Goals?
+In considering the graph's accruatecy, we would ignore and exclude the portion of the graph 25000-29999 to 50000 or more to gain in reliableness.
+
+Afterall, We would recommend setting lower goals in "Plays" subcategory, since it has the highest percentage of successful rate compares to higher goal amount.
 
 ## Limitation
+The limitation is super high in terms of more speific geographic breakdown,citylization,education and more.Further break down would help analysising and improve the campagin strategies.
+Also, the population of the dataset is not enough, ten thousand would be much better number than just a little bit more than 4000 . It helps increase in accuracy in the analytical stage.
 
 ## Possible tables/graph that would be useful 
 One of the possible table/graph could be comparing the sucessful rate with staff pick and not staff pick, we could easier identify if staff pick would boost the cammpagin to meet the goal, and what's sucessful rate with staff pick campagin.
