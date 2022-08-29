@@ -7,9 +7,7 @@ This project explores a dataset of the kickstarter campaigns for our client, to 
 The purpose of this project is to help client understand the successful rate of the campaign based on various parents category and subcategory, to help client optimize their campagin by setting different goal,starting campaign on different time of the year on specific catergory to improve sucessful rate.
 
 ## Analysis and Challenges
-The overview of the analysis is well described with screenshots (2 pt).
-GIRLS STATE a new musical comedy TV project
-![image](https://user-images.githubusercontent.com/109333158/187131530-531e6560-7bf6-4782-a1d7-19c223e83d67.png)
+![image](https://user-images.githubusercontent.com/109333158/187131673-5d8a738b-6d8b-4a95-9c6e-634b294d510c.png)
 
 
 ## Analysis of Outcomes Based on Launch Date
